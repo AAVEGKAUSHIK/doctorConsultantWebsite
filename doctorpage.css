@@ -374,14 +374,20 @@
 }
 .price h3{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 8vw;
+    margin-left: 8.5vw;
     color: rgb(77, 78, 78);
-    margin-top: 8vh;
+    margin-top: 3vh;
 }
 .price button{
     padding: 5px 15px;
     margin-left: 6vw;
     margin-top: 1vh;
-    border: 1px solid rgba(227,240,255,255);
     color: white;
+    border: none;
+    background-color: rgba(24,95,160,255);
+}
+.price img{
+    width: 1.5vw;
+    margin-left: 13vw;
+    margin-top: 2vh;
 }
